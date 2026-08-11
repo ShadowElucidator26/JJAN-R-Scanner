@@ -1,4 +1,4 @@
-# JJAN-R-Scanner
+# <img src="assets/images/jjan:ogo.png" width="24" height="24"> JJAN-R-Scanner
 
 # 🧾 Automated Subsidiary Ledger for Micro-Businesses
 ### Via Receipt Scanning Using EasyOCR and YOLOv8

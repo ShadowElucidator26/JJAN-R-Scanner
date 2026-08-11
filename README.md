@@ -1,5 +1,4 @@
 # JJAN-R-Scanner
-An Automated Subsidiary Ledger for Micro-Businesses Via Receipt Scanning Using EasyOCR and YOLOv8 Algorithm
 
 # 🧾 Automated Subsidiary Ledger for Micro-Businesses
 ### Via Receipt Scanning Using EasyOCR and YOLOv8
@@ -90,7 +89,7 @@ This project hasn't been maintained since our thesis defense, so some steps belo
 
 This was a 4-person thesis project. I was the **sole developer**, responsible for the Flutter app, the YOLOv8/EasyOCR model integration, and backend setup. The model itself was trained from scratch, with my groupmates assisting in **data annotation** for training.
 
-- **[Your Name]** — Developer & Researcher
+- **Aaron Justin Ortiz** — Developer & Researcher
 - **J. Mendoza** — Documentation
 - **J. Mamalayan** — Documentation
 - **N. Natividad** — Documentation

@@ -29,9 +29,9 @@ This was our undergraduate **thesis project**, built to explore how computer vis
 |------|--------------|-------------|
 | ![Home](screenshots/home.png) | ![Scan](screenshots/scan.png) | ![Ledger](screenshots/ledger.png) |
 
-## 🎥 Demo Video
+## 📃 User Manual Documentation
 
-[Watch the full walkthrough here](#) <!-- Replace with your YouTube/Drive link -->
+[See the User Manual here](screenshots/UserManual.pdf) <!-- Replace with your YouTube/Drive link -->
 
 ---
 
